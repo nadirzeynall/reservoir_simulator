@@ -1,4 +1,4 @@
-# reservoir_simulator
+# Fully implicit Python reservoir Simulator
 
 This code represents a straightforward Python implementation of a fully implicit reservoir simulation, encompassing one-dimensional, two-phase (oil and water), and three-phase (oil, gas, and water) scenarios. 
 
